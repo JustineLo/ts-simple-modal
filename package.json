@@ -1,6 +1,15 @@
 {
   "name": "ts-simple-modal",
-  "version": "0.1.3",
+  "author": "Justine Lo",
+  "description": "A simple modal component built with React and TypeScript",
+  "keywords": [
+    "react",
+    "typescript",
+    "modal",
+    "simple",
+    "component"
+  ],
+  "version": "0.1.4",
   "main": "src/Modal.tsx",
   "private": false,
   "dependencies": {
