@@ -2,6 +2,12 @@
 
 `ts-simple-modal` is a simple and customizable modal component for React applications, written in TypeScript.
 
+## Prerequisites
+
+Before getting started with this project, ensure that you have the following prerequisites installed:
+
+- Node.js (version 18.x.x)
+
 ## Installation
 
 To install `ts-simple-modal`, you can use npm or yarn:
